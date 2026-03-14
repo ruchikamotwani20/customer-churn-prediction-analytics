@@ -1,4 +1,4 @@
-# 📊 Predictive Analytics: Building a Customer Churn Prediction Model
+# Predictive Analytics: Building a Customer Churn Prediction Model
 <div align="justify">
 An end to end machine learning project to proactively identify customers at risk of churning, using Python, Pandas, and a recall optimized Random Forest model.
 
