@@ -92,7 +92,7 @@ Instead of treating all at risk customers equally, segment them by churn probabi
 
 Explore the full dashboard, segment risk levels, and customer insights:
 
-🔗 [**Customer Churn Intelligence Dashboard** on Tableau Public](https://public.tableau.com/views/CustomerChurnRiskIntelligenceDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [**Customer Churn Intelligence Dashboard** on Tableau Public](https://public.tableau.com/views/CustomerChurnPredictionRiskAnalyticsDashboard/CustomerChurnRiskIntelligenceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -106,30 +106,6 @@ Explore the full dashboard, segment risk levels, and customer insights:
 | [`notebooks/churn_analysis_and_modeling.ipynb`](notebooks/churn_analysis_and_modeling.ipynb) | Main Jupyter Notebook containing full workflow: EDA, preprocessing, modeling, and evaluation. |
 | [`notebooks/churn_analysis_and_modeling.py`](notebooks/churn_analysis_and_modeling.py) | Python script version of the notebook for automation or reuse. |
 | [`results/churn_risk_analysis_recall_optimized.csv`](results/churn_risk_analysis_recall_optimized.csv) | Final churn predictions with probabilities and labels for the full customer base. |
-
-### 📊 Visualizations ([`results/visualizations/`](results/visualizations/))
-
-| File | Description |
-|------|-------------|
-| [`screnshot_dashboard.png`](results/visualizations/screnshot_dashboard.png) | Churn Risk Dashboard Preview.   |
-| [`confusion_matrix_test_data.png`](results/visualizations/confusion_matrix_test_data.png) | Confusion matrix for the test dataset. |
-| [`eda_distribution_churn.png`](results/visualizations/eda_distribution_churn.png) | Distribution plot of churn vs non churn customers. |
-| [`eda_tenure&monthlycharges_by_churn.png`](results/visualizations/eda_tenure&monthlycharges_by_churn.png) | Scatter plot of tenure and monthly charges colored by churn status. |
-| [`eda_churn_by_gender.png`](results/visualizations/eda_churn_by_gender.png) | Churn rate segmented by Gender. |
-| [`eda_churn_by_SeniorCitizen.png`](results/visualizations/eda_churn_by_SeniorCitizen.png) | Churn rate segmented by Senior Citizen status. |
-| [`eda_churn_by_Partner.png`](results/visualizations/eda_churn_by_Partner.png) | Churn rate segmented by Partner status. |
-| [`eda_churn_by_Dependents.png`](results/visualizations/eda_churn_by_Dependents.png) | Churn rate segmented by Dependents. |
-| [`eda_churn_by_contract.png`](results/visualizations/eda_churn_by_contract.png) | Churn rate segmented by Contract type. |
-| [`eda_churn_by_PaymentMethod.png`](results/visualizations/eda_churn_by_PaymentMethod.png) | Churn rate segmented by Payment Method. |
-| [`eda_churn_by_PaperlessBilling.png`](results/visualizations/eda_churn_by_PaperlessBilling.png) | Churn rate segmented by Paperless Billing usage. |
-| [`eda_churn_by_PhoneService.png`](results/visualizations/eda_churn_by_PhoneService.png) | Churn rate segmented by Phone Service usage. |
-| [`eda_churn_by_InternetService.png`](results/visualizations/eda_churn_by_InternetService.png) | Churn rate segmented by Internet Service type. |
-| [`eda_churn_by_OnlineSecurity.png`](results/visualizations/eda_churn_by_OnlineSecurity.png) | Churn rate segmented by Online Security subscription. |
-| [`eda_churn_by_OnlineBackup.png`](results/visualizations/eda_churn_by_OnlineBackup.png) | Churn rate segmented by Online Backup subscription. |
-| [`eda_churn_by_DeviceProtection.png`](results/visualizations/eda_churn_by_DeviceProtection.png) | Churn rate segmented by Device Protection. |
-| [`eda_churn_by_TechSupport.png`](results/visualizations/eda_churn_by_TechSupport.png) | Churn rate segmented by Tech Support availability. |
-| [`eda_churn_by_StreamingTV.png`](results/visualizations/eda_churn_by_StreamingTV.png) | Churn rate segmented by Streaming TV usage. |
-| [`eda_churn_by_StreamingMovies.png`](results/visualizations/eda_churn_by_StreamingMovies.png) | Churn rate segmented by Streaming Movies usage. |
 
 
 
