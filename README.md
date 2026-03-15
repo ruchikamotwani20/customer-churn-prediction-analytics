@@ -6,7 +6,7 @@ An end to end machine learning project to proactively identify customers at risk
 
 ![Churn Risk Dashboard Preview](results/visualizations/screnshot_dashboard.png)
 
-🔗 [View the full interactive dashboard on Tableau Public](https://public.tableau.com/views/CustomerChurnRiskIntelligenceDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [View the full interactive dashboard on Tableau Public](https://public.tableau.com/views/CustomerChurnPredictionRiskAnalyticsDashboard/CustomerChurnRiskIntelligenceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
